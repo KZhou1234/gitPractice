@@ -1,3 +1,4 @@
 This command for add: git add filename
 To stages
-This command for commit: git commit -m "message"
+Command for commit: git commit -m "message"
+Command for status: git ststus
