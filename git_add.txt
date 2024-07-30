@@ -1,0 +1,3 @@
+This command for add: git add filename
+To stages
+
