@@ -2,3 +2,4 @@ This command for add: git add filename
 To stages
 Command for commit: git commit -m "message"
 Command for status: git ststus
+Command for add another branch: git branch feature
